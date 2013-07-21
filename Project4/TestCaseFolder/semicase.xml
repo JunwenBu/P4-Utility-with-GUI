@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<conf>
+<test>
+	<id>1</id>
+	<dll>SemiCaseOne.dll</dll>
+	<author>Tiger</author>
+</test>
+<test>
+	<id>2</id>
+	<dll>SemiCase2.dll</dll>
+	<author>Snake</author>
+</test>
+<test>
+	<id>3</id>
+	<dll>SemiThirdCase.dll</dll>
+	<author>Fox</author>
+</test>
+</conf>

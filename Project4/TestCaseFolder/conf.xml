@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<conf>
+<test>
+	<id>4</id>
+	<dll>SemiExpression.dll</dll>
+	<author>Tom</author>
+</test>
+<test>
+	<id>5</id>
+	<dll>TokenizerTest.dll</dll>
+	<author>Jerry</author>
+</test>
+</conf>

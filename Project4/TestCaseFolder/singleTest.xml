@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<conf>
+<test>
+	<id>6</id>
+	<dll>ShortTokenizerTest.dll</dll>
+	<author>JBU</author>
+</test>
+</conf>
